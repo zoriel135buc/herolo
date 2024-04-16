@@ -1,0 +1,46 @@
+{
+  "Headline": {
+    "EffectiveDate": "2024-03-19T13:00:00+02:00",
+    "EffectiveEpochDate": 1710846000,
+    "Severity": 7,
+    "Text": "Breezy Tuesday afternoon",
+    "Category": "wind",
+    "EndDate": "2024-03-19T19:00:00+02:00",
+    "EndEpochDate": 1710867600,
+    "MobileLink": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?unit=c&lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2024-03-19T07:00:00+02:00",
+      "EpochDate": 1710824400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 12.9,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 18.5,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 13,
+        "IconPhrase": "Mostly cloudy w/ showers",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=1&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=1&unit=c&lang=en-us"
+    }
+  ]
+}
